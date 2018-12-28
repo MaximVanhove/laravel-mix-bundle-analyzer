@@ -1,0 +1,31 @@
+{
+  "name": "laravel-mix-bundle-analyzer",
+  "version": "1.0.0",
+  "description": "A Laravel Mix extension for Webpack bundle analyzer support.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximVanhove/laravel-mix-bundle-analyzer.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "webpack",
+    "bundle",
+    "analyzer",
+    "webpack bundle analyzer"
+  ],
+  "author": "Maxim Vanhove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaximVanhove/laravel-mix-bundle-analyzer/issues"
+  },
+  "homepage": "https://github.com/MaximVanhove/laravel-mix-bundle-analyzer#readme",
+  "peerDependencies": {
+    "laravel-mix": "^4.0.0"
+  },
+  "dependencies": {
+    "webpack-bundle-analyzer": "^3.0.3"
+  }
+}
