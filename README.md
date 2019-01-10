@@ -14,7 +14,7 @@ Your `webpack.mix.js` should look like this:
 
 ```js
 const mix = require('laravel-mix');
-require('./resources/mix/laravel-mix-bundle-analyser');
+require('laravel-mix-bundle-analyzer');
 
 if (!mix.inProduction()) {
     mix.bundleAnalyzer();
@@ -27,7 +27,7 @@ You might only want to open the analyzer when watching:
 
 ```js
 const mix = require('laravel-mix');
-require('./resources/mix/laravel-mix-bundle-analyser');
+require('laravel-mix-bundle-analyzer');
 
 if (mix.isWatching()) {
     mix.bundleAnalyzer();
