@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-bundle-analyzer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Laravel Mix extension for Webpack bundle analyzer support.",
   "main": "index.js",
   "repository": {
