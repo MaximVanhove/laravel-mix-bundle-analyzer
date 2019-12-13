@@ -8,6 +8,10 @@ This extension adds webpack bundle analyzer support to laravel mix
 npm install laravel-mix-bundle-analyzer --save-dev
 ```
 
+## Requirements
+
+`laravel-mix >= 2.1`
+
 ## Usage
 
 Your `webpack.mix.js` should look like this:
