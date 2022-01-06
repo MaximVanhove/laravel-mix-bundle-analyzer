@@ -2,7 +2,7 @@
 
 This extension adds webpack bundle analyzer support to laravel mix
 
-## Instalation
+## Installation
 
 ```
 npm install laravel-mix-bundle-analyzer --save-dev
