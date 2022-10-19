@@ -10,7 +10,7 @@ npm install laravel-mix-bundle-analyzer --save-dev
 
 ## Requirements
 
-`laravel-mix >= 2.1`
+`laravel-mix >= 4.0`
 
 ## Usage
 
